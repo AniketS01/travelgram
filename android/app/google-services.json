@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "318286391831",
+    "project_id": "instaclone-ecd39",
+    "storage_bucket": "instaclone-ecd39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318286391831:android:2f36c81c659be914fd0a52",
+        "android_client_info": {
+          "package_name": "com.travelgram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318286391831-q3lhnkcapm6k3msbfm0da2n22li741vv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK9_SyRkw1vq9b5CBTT-h0SAfbjhCpxa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318286391831-q3lhnkcapm6k3msbfm0da2n22li741vv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
